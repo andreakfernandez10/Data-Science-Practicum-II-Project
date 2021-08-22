@@ -37,8 +37,8 @@ Overall, this project was successful in the ability to predict the outcome of Th
 
 
 ### Links
-Presentation:
-
-Tableau:
+#### Presentation:
+https://www.youtube.com/watch?v=j3WRsYxmlAo
+#### Tableau:
 https://public.tableau.com/app/profile/andrea.fernandez6869/viz/ChampionsLeagueMap/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/andrea.fernandez6869/viz/ChampionsLeagueEDA/Dashboard2?publish=yes
